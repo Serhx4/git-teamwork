@@ -1,5 +1,6 @@
+int age = 404;
+String name ="Jonny Tratatoni"
 int expirence;
-String name = "Berkunski";
-int age;
+String lastName = "Berkunski";
 String subject;
 
